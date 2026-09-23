@@ -32,45 +32,64 @@
     {
       "title": "小红书",
       "url": "https://www.xiaohongshu.com/user/profile/654afda900000000300325dc",
-      "icon": ""
+      "icon": "Notebook"
     }
   ],
   "downloads": {
     "xmb10p": {
       "version": "1.0.2",
-      "file_name": "downloads/环 10Pro-圆饼三指针.bin"
+      "file_name": "downloads/环 10Pro-圆饼三指针.bin",
+      "versionCode": 1
     },
     "xmb9p": {
       "version": "1.0.2",
-      "file_name": "downloads/环 9Pro-圆饼三指针.bin"
+      "file_name": "downloads/环 9Pro-圆饼三指针.bin",
+      "versionCode": 1
     },
     "xmrw5": {
       "version": "1.0.2",
-      "file_name": "downloads/红米 Watch5-圆饼三指针 .bin"
+      "file_name": "downloads/红米 Watch5-圆饼三指针 .bin",
+      "versionCode": 1
     },
     "xmrw5xring": {
       "version": "1.0.2",
-      "file_name": "downloads/红米 Watch5-圆饼三指针 .bin"
+      "file_name": "downloads/红米 Watch5-圆饼三指针 .bin",
+      "versionCode": 1
     },
     "xmrw6": {
       "version": "1.0.2",
-      "file_name": "downloads/红米 Watch6-圆饼三指针 .bin"
+      "file_name": "downloads/红米 Watch6-圆饼三指针 .bin",
+      "versionCode": 1
     },
     "xmb10": {
       "version": "1.0.2",
-      "file_name": "downloads/环 10-圆饼三指针 带复杂版.bin"
+      "file_name": "downloads/环 10-圆饼三指针 带复杂版.bin",
+      "versionCode": 1
     },
     "xmb10nfc": {
       "version": "1.0.2",
-      "file_name": "downloads/环 10-圆饼三指针 带复杂版.bin"
+      "file_name": "downloads/环 10-圆饼三指针 带复杂版.bin",
+      "versionCode": 1
     },
     "xmb9": {
       "version": "1.0.2",
-      "file_name": "downloads/环 9-圆饼三指针.bin"
+      "file_name": "downloads/环 9-圆饼三指针.bin",
+      "versionCode": 1
     },
     "xmws5": {
       "version": "1.0.2",
-      "file_name": "downloads/小米 WatchS5-圆饼三指针.bin"
+      "file_name": "downloads/小米 WatchS5-圆饼三指针.bin",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.2",
+      "file_name": "downloads/圆饼三指针-小米手环 11-复杂数据版.bin",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.2",
+      "file_name": "downloads/圆饼三指针-小米手环 11-复杂数据版.bin",
+      "versionCode": 1
     }
   },
   "ext": {}
