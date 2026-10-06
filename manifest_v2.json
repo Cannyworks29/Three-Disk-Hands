@@ -63,12 +63,24 @@
     "xmb10": {
       "version": "1.2.0",
       "file_name": "downloads/环 10-圆饼三指针-多元配色2 修正蓝色星期.bin",
-      "versionCode": 66048
+      "versionCode": 66048,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "给手环 10 与手环 11 带来了更新。\n-修复蓝色星期数字的显示错位\n-修复星期数字显示的透明度\n-同时给所有配色的表盘，增加了黑色的底色，可以杜绝暗红色的底色 bug。"
+        }
+      ]
     },
     "xmb10nfc": {
       "version": "1.2.0",
       "file_name": "downloads/环 10-圆饼三指针-多元配色2 修正蓝色星期.bin",
-      "versionCode": 66048
+      "versionCode": 66048,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "给手环 10 与手环 11 带来了更新。\n-修复蓝色星期数字的显示错位\n-修复星期数字显示的透明度\n-同时给所有配色的表盘，增加了黑色的底色，可以杜绝暗红色的底色 bug。"
+        }
+      ]
     },
     "xmb9": {
       "version": "1.0.2",
@@ -83,12 +95,24 @@
     "xmb11nfc": {
       "version": "1.2.0",
       "file_name": "downloads/环 11-圆饼三指针-小米手环 11 复杂数据 修正蓝色星期.bin",
-      "versionCode": 66048
+      "versionCode": 66048,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "给手环 10 与手环 11 带来了更新。\n-修复蓝色星期数字的显示错位\n-修复星期数字显示的透明度\n-同时给所有配色的表盘，增加了黑色的底色，可以杜绝暗红色的底色 bug。"
+        }
+      ]
     },
     "xmb11": {
       "version": "1.2.0",
       "file_name": "downloads/环 11-圆饼三指针-小米手环 11 复杂数据 修正蓝色星期.bin",
-      "versionCode": 66048
+      "versionCode": 66048,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "给手环 10 与手环 11 带来了更新。\n-修复蓝色星期数字的显示错位\n-修复星期数字显示的透明度\n-同时给所有配色的表盘，增加了黑色的底色，可以杜绝暗红色的底色 bug。"
+        }
+      ]
     }
   },
   "ext": {}
